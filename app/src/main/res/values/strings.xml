@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyCinema</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="username">usuario</string>
+    <string name="password">password</string>
+    <string name="forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="go">Entrar</string>
+    <string name="sign_up">¿No tienes cuenta? Regístrate</string>
+</resources>
