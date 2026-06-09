@@ -1,4 +1,4 @@
-package chavez.alma.mycinema
+package ochoa.ivan.mycinema
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

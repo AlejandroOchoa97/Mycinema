@@ -4,12 +4,12 @@ plugins {
 }
 
 android {
-    namespace = "chavez.alma.mycinema"
+    namespace = "ochoa.ivan.mycinema"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "chavez.alma.mycinema"
-        minSdk = 23
+        applicationId = "ochoa.ivan.mycinema"
+        minSdk = 26
         targetSdk = 36
         versionCode = 1
         versionName = "1.0"

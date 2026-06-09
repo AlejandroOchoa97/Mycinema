@@ -8,14 +8,14 @@
     android:padding="25dp">
 
     <ImageView
-        android:id="@+id/popcornImage"
+        android:id="@+id/ivPopcorn"
         android:layout_width="250dp"
         android:layout_height="250dp"
         android:contentDescription="@string/app_name"
         android:src="@drawable/palomitas" />
 
     <TextView
-        android:id="@+id/loginTitle"
+        android:id="@+id/tvLoginTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
@@ -25,7 +25,7 @@
         android:textStyle="bold" />
 
     <EditText
-        android:id="@+id/username"
+        android:id="@+id/etUsername"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="28dp"
@@ -36,7 +36,7 @@
         android:textColorHint="@color/text_muted" />
 
     <EditText
-        android:id="@+id/password"
+        android:id="@+id/etPassword"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="12dp"
@@ -47,7 +47,7 @@
         android:textColorHint="@color/text_muted" />
 
     <TextView
-        android:id="@+id/forgotPassword"
+        android:id="@+id/tvForgotPassword"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
@@ -67,7 +67,7 @@
         android:textColor="#FFFFFFFF" />
 
     <TextView
-        android:id="@+id/signUpText"
+        android:id="@+id/tvSignUp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
