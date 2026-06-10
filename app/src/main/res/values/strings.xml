@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MyCinema</string>
     <string name="login">Iniciar sesión</string>
-    <string name="username">usuario</string>
-    <string name="password">password</string>
     <string name="forgot_password">¿Olvidaste tu contraseña?</string>
-    <string name="go">Entrar</string>
     <string name="sign_up">¿No tienes cuenta? Regístrate</string>
+    <string name="go">Entrar</string>
+    <string name="movie_name">La Espada en la Piedra</string>
+    <string name="buy">Comprar</string>
+    <string name="rent">Rentar</string>
+    <string name="sinopsis">Narra la leyenda del joven Arturo, apodado "Grillo" (Wart), un escudero huérfano y humilde en la Inglaterra medieval, quien bajo la tutela del mago Merlín y su búho Arquímedes, se educa en sabiduría e inteligencia. Arturo, tras sacar una espada mágica de un yunque y piedra, cumple la profecía de convertirse en el legítimo Rey de Inglaterra. </string>
 </resources>
