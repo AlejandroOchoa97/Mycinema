@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.MyCinema" parent="@android:style/Theme.Material.Light.NoActionBar">
-        <item name="android:windowLightStatusBar">true</item>
-        <item name="android:statusBarColor">@color/login_background</item>
-        <item name="android:navigationBarColor">@color/login_background</item>
-        <item name="android:colorAccent">@color/primary_purple</item>
+    <style name="Title">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
     </style>
+
+    <style name="MetadataText">
+        <item name="android:textStyle">italic</item>
+        <item name="fontFamily">sans-serif-medium</item>
+    </style>
+
 </resources>
